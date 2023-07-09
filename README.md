@@ -5,7 +5,7 @@ to time changes in climate which would help us in planning our daily work easily
 be helpful for a farmer in this agricultural activity by which he can protect his crops climatic 
 changes. It would help in transportation giving information of weather conditions etc.
 
-##Components Required:
+Components Required:
 ---
 • Raspberry Pi Pico W   
 • 16×2 I2C LCD Display    
@@ -17,12 +17,12 @@ changes. It would help in transportation giving information of weather condition
 • DHT11(Temperature & Humidity sensors)   
 • LDR   
 
-##Required Software Applications: 
+Required Software Applications: 
 ---
 • Thonny IDE    
 • Thing view app  
 
-##How does it work?
+How does it work?
 ---
 On the system side Raspberry Pi board operates as a data acquisition mode and as a web server 
 mode. It collects data from Temperature and Humidity sensor, Pressure and Altitude sensor, Light 
@@ -32,7 +32,7 @@ Internet connection to the board is given by using LAN through Ethernet port or 
 dongle through USB port. On this website one channel is created and all six fields are placed in 
 this channel.
 
-##Procedure:
+Procedure:
 ---
 • Place the breadboard on a flat surface.   
 
@@ -77,19 +77,19 @@ this channel.
 • after creating channel successfully we will get a channel id. we can share this channel id and use 
   this id to search in Think View app to monitor the weather.   
 
-##Block Diagram
+Block Diagram
 ---
 ![image](https://github.com/B27REVANTH/weather-monitoring/assets/112959086/900ef373-d412-49a3-a987-1c3af7b53109)
 
-##Circuit Design
+Circuit Design
 ---
 ![image](https://github.com/B27REVANTH/weather-monitoring/assets/112959086/42a812d8-2441-4e92-b118-6df187c20091)
 
-##Result in Lcd Display
+Result in Lcd Display
 ---
 ![image](https://github.com/B27REVANTH/weather-monitoring/assets/112959086/60799c66-df9b-4632-a112-6e3134dcec0f)
 
-##Result in Thing View app
+Result in Thing View app
 ---
 ![image](https://github.com/B27REVANTH/weather-monitoring/assets/112959086/bf103254-e7b5-44d8-b99f-6bfc4c817adc)
 ![image](https://github.com/B27REVANTH/weather-monitoring/assets/112959086/37abb5b4-8b6b-401f-abeb-b3b20d19f90e)
