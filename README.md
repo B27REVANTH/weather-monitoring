@@ -90,6 +90,7 @@ this channel.
 ![image](https://github.com/B27REVANTH/weather-monitoring/assets/112959086/60799c66-df9b-4632-a112-6e3134dcec0f)
 
 ## Result in Thing View app
+---
 ![image](https://github.com/B27REVANTH/weather-monitoring/assets/112959086/bf103254-e7b5-44d8-b99f-6bfc4c817adc)
 ![image](https://github.com/B27REVANTH/weather-monitoring/assets/112959086/37abb5b4-8b6b-401f-abeb-b3b20d19f90e)
 ![image](https://github.com/B27REVANTH/weather-monitoring/assets/112959086/72218666-2c4c-4469-abe7-2cf407842335)
