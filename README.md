@@ -4,4 +4,5 @@ place by which man can be aware of present and for future climatic changes.  Mos
 to time changes in climate which would help us in planning our daily work easily. Like It would 
 be helpful for a farmer in this agricultural activity by which he can protect his crops climatic 
 changes. It would help in transportation giving information of weather conditions etc.
+#components required
 
