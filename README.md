@@ -32,7 +32,7 @@ Internet connection to the board is given by using LAN through Ethernet port or 
 dongle through USB port. On this website one channel is created and all six fields are placed in 
 this channel.
 
-## Procedure
+## Procedure:
 ---
 • Place the breadboard on a flat surface.   
 
